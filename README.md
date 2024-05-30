@@ -1,4 +1,6 @@
 # CODY
+# ============================================
+![Screenshot (18)](https://github.com/alisharaff/Cody_Application/assets/77925806/bd809146-904c-46fd-a2d8-4f65f485f5e3)
 
 # ============================================
 
